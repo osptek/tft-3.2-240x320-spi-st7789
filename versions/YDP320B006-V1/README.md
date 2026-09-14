@@ -13,6 +13,8 @@
   <img alt="Driver: ST7789P3" src="https://img.shields.io/badge/Driver-ST7789P3-E7352C?style=flat-square" />
 </p>
 
+<p align="center"><img alt="OSPTEK 3.2 寸 240×320 TFT SPI 模组（ST7789P3）宣传图" src="./images/product.png" width="640" /></p>
+
 ## 目录
 
 - [产品简介](#产品简介)

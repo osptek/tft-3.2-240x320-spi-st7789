@@ -13,6 +13,8 @@
   <img alt="Driver: ST7789P3" src="https://img.shields.io/badge/Driver-ST7789P3-E7352C?style=flat-square" />
 </p>
 
+<p align="center"><img alt="OSPTEK 3.2 inch 240×320 TFT SPI module (ST7789P3) product image" src="./images/product.png" width="640" /></p>
+
 ## Contents
 
 - [Overview](#overview)

@@ -37,11 +37,13 @@
 
 | 版本 | 宣传图 | 简介 | 完整资料 |
 | ---- | ------ | ---- | -------- |
-| YDP320B006-V1 |  | [简介](#ydp320b006-v1) | [完整资料](./versions/YDP320B006-V1/) |
+| YDP320B006-V1 | <img alt="YDP320B006-V1" src="./versions/YDP320B006-V1/images/product.png" width="120" /> | [简介](#ydp320b006-v1) | [完整资料](./versions/YDP320B006-V1/) |
 
 ---
 
 ## YDP320B006-V1
+
+<p align="center"><img alt="YDP320B006-V1" src="./versions/YDP320B006-V1/images/product.png" width="320" /></p>
 
 **说明：** FPC 为 10 Pin，无触摸。
 

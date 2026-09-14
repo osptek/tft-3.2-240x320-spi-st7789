@@ -37,11 +37,13 @@ Repo id: `tft-3.2-240x320-spi-st7789`
 
 | Version | Image | Summary | Full docs |
 | ------- | ----- | ------- | --------- |
-| YDP320B006-V1 |  | [Summary](#ydp320b006-v1) | [Full docs](./versions/YDP320B006-V1/) |
+| YDP320B006-V1 | <img alt="YDP320B006-V1" src="./versions/YDP320B006-V1/images/product.png" width="120" /> | [Summary](#ydp320b006-v1) | [Full docs](./versions/YDP320B006-V1/) |
 
 ---
 
 ## YDP320B006-V1
+
+<p align="center"><img alt="YDP320B006-V1" src="./versions/YDP320B006-V1/images/product.png" width="320" /></p>
 
 **Notes:** 10-pin FPC, no touch.
 
