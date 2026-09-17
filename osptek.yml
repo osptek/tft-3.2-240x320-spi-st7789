@@ -6,6 +6,7 @@ panel: tft
 resolution: 240x320
 interface: [spi]
 shape: rect
+corner: sharp
 
 versions:
   - id: YDP320B006-V1
