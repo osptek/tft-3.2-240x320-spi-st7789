@@ -1,0 +1,14 @@
+id: tft-3.2-240x320-spi-st7789
+category: displays
+
+size: "3.2"
+panel: tft
+resolution: 240x320
+interface: [spi]
+shape: rect
+
+versions:
+  - id: YDP320B006-V1
+    driver: ST7789P3
+    touch: none
+    note: 10-pin FPC
